@@ -1,0 +1,25 @@
+/*this is an external css*/
+h1{
+font-family: Tahoma;
+color: white;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+h3{
+	font-family: Tahoma;
+	color: white;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+body{
+	background-color:#26AF7D;
+}
+
+}
+small{
+	color: white;
+}
