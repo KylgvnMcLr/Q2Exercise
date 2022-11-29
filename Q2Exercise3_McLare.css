@@ -1,0 +1,22 @@
+img{
+	border-style: solid;
+	border-color: #5AC8A2
+}
+h1{
+	font-family: Alice;
+}
+ul{
+	font-family: Tahoma;
+}
+body{
+	margin-left: 25px;
+	margin-top: 25px;
+}
+.Div2{
+	background-color:#5AC8A2 ;
+	padding: 2px 12px 2px;
+}
+.Div1{
+	background-color:#5AC8A2 ;
+	padding: 10px 50px 10px;
+}
